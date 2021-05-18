@@ -3,7 +3,7 @@ title: "VRﾃﾞｷﾅｲ 海外在住Webフロントエンドエンジニアが
 emoji: "🇪🇪"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ['転職エントリ', 'VR', 'HIKKY', 'Nuxt', 'TypeScript']
-published: false
+published: true
 ---
 
 ## ✔ 注意事項
